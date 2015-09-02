@@ -1,0 +1,171 @@
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Shruti;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:\"Cambria Math\";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#595959;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:\"Header Char\";
+	margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#595959;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:\"Footer Char\";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#595959;}
+p.MsoListBullet, li.MsoListBullet, div.MsoListBullet
+	{margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:5.0pt;
+	margin-left:5.05pt;
+	text-indent:-5.05pt;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#595959;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-link:\"Title Char\";
+	margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:85%;
+	font-size:32.0pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#858585;
+	text-transform:uppercase;}
+p.MsoDate, li.MsoDate, div.MsoDate
+	{mso-style-link:\"Date Char\";
+	margin-top:0cm;
+	margin-right:7.2pt;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:black;}
+em
+	{color:#404040;}
+span.MsoPlaceholderText
+	{color:gray;}
+span.TitleChar
+	{mso-style-name:\"Title Char\";
+	mso-style-link:Title;
+	font-family:\"Calibri\",sans-serif;
+	color:#858585;
+	text-transform:uppercase;}
+p.SectionHeading, li.SectionHeading, div.SectionHeading
+	{mso-style-name:\"Section Heading\";
+	margin-top:32.0pt;
+	margin-right:28.8pt;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:90%;
+	font-size:13.0pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#7F7F7F;
+	text-transform:uppercase;}
+p.Subsection, li.Subsection, div.Subsection
+	{mso-style-name:Subsection;
+	margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:black;}
+span.HeaderChar
+	{mso-style-name:\"Header Char\";
+	mso-style-link:Header;}
+span.FooterChar
+	{mso-style-name:\"Footer Char\";
+	mso-style-link:Footer;}
+span.DateChar
+	{mso-style-name:\"Date Char\";
+	mso-style-link:Date;
+	color:black;}
+p.ContactInfo, li.ContactInfo, div.ContactInfo
+	{mso-style-name:\"Contact Info\";
+	margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#595959;}
+p.ContactInfoCxSpFirst, li.ContactInfoCxSpFirst, div.ContactInfoCxSpFirst
+	{mso-style-name:\"Contact InfoCxSpFirst\";
+	margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#595959;}
+p.ContactInfoCxSpMiddle, li.ContactInfoCxSpMiddle, div.ContactInfoCxSpMiddle
+	{mso-style-name:\"Contact InfoCxSpMiddle\";
+	margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#595959;}
+p.ContactInfoCxSpLast, li.ContactInfoCxSpLast, div.ContactInfoCxSpLast
+	{mso-style-name:\"Contact InfoCxSpLast\";
+	margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#595959;}
+.MsoChpDefault
+	{font-size:9.5pt;
+	font-family:\"Calibri\",sans-serif;
+	color:#595959;}
+.MsoPapDefault
+	{margin-top:0cm;
+	margin-right:28.8pt;
+	margin-bottom:5.0pt;
+	margin-left:0cm;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:54.0pt 79.2pt 54.0pt 79.2pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
